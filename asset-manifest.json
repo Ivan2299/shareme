@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/shareme/static/css/main.e22f0d8c.css",
+    "main.js": "/shareme/static/js/main.9e15acdd.js",
+    "static/media/share.mp4": "/shareme/static/media/share.f758eefc9ea32c312130.mp4",
+    "index.html": "/shareme/index.html",
+    "main.e22f0d8c.css.map": "/shareme/static/css/main.e22f0d8c.css.map",
+    "main.9e15acdd.js.map": "/shareme/static/js/main.9e15acdd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e22f0d8c.css",
+    "static/js/main.9e15acdd.js"
+  ]
+}
